@@ -3,10 +3,12 @@ Built an interactive Power BI dashboard to analyze Blinkit’s sales, product ca
 
 
  Project Overview
+ 
 This project presents an end-to-end analysis of Blinkit’s sales, outlet performance, and product behavior using an interactive Power BI dashboard. The goal is to uncover meaningful business insights related to item categories, customer ratings, outlet types, and geographic performance.
 
 
  Key Highlights
+ 
 •	Analyzed 1.2M+ total sales across multiple outlet types and city tiers.
 •	Examined customer preferences based on fat content, item type, and visibility score.
 •	Tracked outlet establishment growth from 2011 to 2022.
@@ -20,6 +22,7 @@ o	Number of Items
 
 
  Dashboard Features
+ 
 •	Dynamic slicers for Outlet Type, Outlet Location, and Item Category.
 •	KPI Cards showing total sales, average sales, ratings, and item count.
 •	Donut charts for fat content and outlet size distribution.
@@ -29,13 +32,15 @@ o	Number of Items
 
 
 Tools & Skills Used
+
 •	Power BI – Dashboard Design, DAX Calculations, Data Modeling
 •	Excel / CSV – Data Cleaning
 •	Data Analysis Concepts – Sales Analysis, Categorization, Trend Study
 
 
 Outcome
+
 The dashboard provides a complete 360° view of Blinkit’s sales behavior. It supports business decision-making by identifying high-performing outlets, top-selling item categories, and key customer preferences.
 
-item categories, and key customer preferences.item categories, and key customer preferences.
+
 
