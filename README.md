@@ -9,16 +9,16 @@ This project presents an end-to-end analysis of Blinkit’s sales, outlet perfor
 
  ## Key Highlights
  
-•	Analyzed 1.2M+ total sales across multiple outlet types and city tiers.\n
-•	Examined customer preferences based on fat content, item type, and visibility score.
-•	Tracked outlet establishment growth from 2011 to 2022.
-•	Compared performance across Tier 1, Tier 2, and Tier 3 cities.
-•	Benchmarking of outlet types (Blinkit Store, Grocery Store, Supermarket, Dark Store) using:
-o	Total Sales
-o	Average Sales
-o	Item Visibility
-o	Customer Ratings
-o	Number of Items
+-	Analyzed 1.2M+ total sales across multiple outlet types and city tiers.
+-	Examined customer preferences based on fat content, item type, and visibility score.
+-	Tracked outlet establishment growth from 2011 to 2022.
+-	Compared performance across Tier 1, Tier 2, and Tier 3 cities.
+-	Benchmarking of outlet types (Blinkit Store, Grocery Store, Supermarket, Dark Store) using:
+      -	Total Sales
+      -	Average Sales
+      -	Item Visibility
+      -	Customer Ratings
+      -	Number of Items
 
 
  ## Dashboard Features
