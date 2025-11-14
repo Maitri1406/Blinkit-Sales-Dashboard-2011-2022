@@ -42,5 +42,8 @@ This project presents an end-to-end analysis of Blinkit’s sales, outlet perfor
 
 The dashboard provides a complete 360° view of Blinkit’s sales behavior. It supports business decision-making by identifying high-performing outlets, top-selling item categories, and key customer preferences.
 
+## Dashboard
+<img width="1392" height="782" alt="Blinkit Dashboard Image" src="https://github.com/user-attachments/assets/9489f567-4629-4cb1-8d86-87bd5c661493" />
+
 
 
