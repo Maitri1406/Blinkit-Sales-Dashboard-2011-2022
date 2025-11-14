@@ -2,7 +2,7 @@
 Built an interactive Power BI dashboard to analyze Blinkit’s sales, product categories, outlet types, and city-tier performance. Includes KPIs, item-wise insights, fat content analysis, and dynamic slicers for easy filtering. The dashboard provides clear business insights for smarter decision-making.
 
 
- Project Overview
+## Project Overview
  
 This project presents an end-to-end analysis of Blinkit’s sales, outlet performance, and product behavior using an interactive Power BI dashboard. The goal is to uncover meaningful business insights related to item categories, customer ratings, outlet types, and geographic performance.
 
