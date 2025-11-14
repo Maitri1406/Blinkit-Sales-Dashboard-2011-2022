@@ -23,19 +23,19 @@ This project presents an end-to-end analysis of Blinkit’s sales, outlet perfor
 
  ## Dashboard Features
  
-•	Dynamic slicers for Outlet Type, Outlet Location, and Item Category.
-•	KPI Cards showing total sales, average sales, ratings, and item count.
-•	Donut charts for fat content and outlet size distribution.
-•	Bar charts for product category sales and city-tier performance.
-•	Line chart showing outlet establishment trends over time.
-•	Interactive table comparing outlet types with rich color-coded formatting.
+- Dynamic slicers for Outlet Type, Outlet Location, and Item Category.
+-	KPI Cards showing total sales, average sales, ratings, and item count.
+-	Donut charts for fat content and outlet size distribution.
+-	Bar charts for product category sales and city-tier performance.
+-	Line chart showing outlet establishment trends over time.
+-	Interactive table comparing outlet types with rich color-coded formatting.
 
 
 ## Tools & Skills Used
 
-•	Power BI – Dashboard Design, DAX Calculations, Data Modeling
-•	Excel / CSV – Data Cleaning
-•	Data Analysis Concepts – Sales Analysis, Categorization, Trend Study
+-	Power BI – Dashboard Design, DAX Calculations, Data Modeling
+-	Excel / CSV – Data Cleaning
+-	Data Analysis Concepts – Sales Analysis, Categorization, Trend Study
 
 
 ## Outcome
